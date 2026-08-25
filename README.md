@@ -1,6 +1,5 @@
 # 💫 About Me:
-Junior majoring CS at Hanyang University, Ansan
-
+Hanyang University ERICA | B.S. in Computer Science (Junior)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ericpark321) 
