@@ -9,4 +9,4 @@ Hanyang University ERICA | B.S. in Computer Science (Junior)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=cire21st&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=cire21st&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cire21st&theme=telegram&timezone=GMT%2B9&card_width=450&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cire21st)](https://git.io/streak-stats)
