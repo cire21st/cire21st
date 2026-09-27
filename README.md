@@ -1,7 +1,7 @@
 ## 💫 About Me:
 Hanyang University ERICA | B.S. in Computer Science (Junior)
 - I am still learning and building my foundations, but I like turning what I study into small, reproducible projects. 
-- My current interests include robotics, ROS 2, Python automation, algorithms, and practical development environments.
+- My current interests include robotics, ROS 2, artificial intelligence, Python automation, algorithms, and practical development environments.
 
 ## Current Interests
 
